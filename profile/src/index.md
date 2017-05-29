@@ -10,9 +10,10 @@ github: https://github.com/omerlh/geek-profile
 #### Skills
 - C# 
 - Android/Java
-- Swift/iOS
-- Javascript
+- iOS/Swift
+- Javascript/NodeJS
 - Python
+- Threat Modeling
 
 ## Talks
 - [Automated Security Testing](https://www.slideshare.net/SolutoTLV/automated-security-testing-74232725)
@@ -20,7 +21,7 @@ github: https://github.com/omerlh/geek-profile
 ## Posts
 - [Userless User Authentication For Mobile Applications](https://blog.solutotlv.com/userless-mobile-authentication/)
 - [Keep Redis in shape using 3 simple steps](https://blog.solutotlv.com/keep-redis-shape-3-simple-steps/)
-
+- [What I learned at AppSecEu](https://blog.solutotlv.com/my-thoughts-appseceurope/)
 
 ## GitHub
 
