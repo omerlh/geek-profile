@@ -17,6 +17,7 @@ github: https://github.com/omerlh/geek-profile
 
 ## Talks
 - [Automated Security Testing](https://www.slideshare.net/SolutoTLV/automated-security-testing-74232725)
+- [All You Need is Zap - Webinar](https://www.youtube.com/watch?v=AQX84p9NhqY)
 
 ## Posts
 - [Userless User Authentication For Mobile Applications](https://blog.solutotlv.com/userless-mobile-authentication/)
@@ -28,6 +29,11 @@ github: https://github.com/omerlh/geek-profile
 #### Original
 - [webdriverio-zap-proxy](https://github.com/Soluto/webdriverio-zap-proxy): example of how to integrate zap with webdriver.io
 - [check-redis-plugin](https://github.com/Soluto/check-redis-plugin): Nagios plugin to monitor Redis memory usage using Webdis
+
+### Contributor
+ - [TrustKit](https://github.com/datatheorem/TrustKit)
+ - [TrustKit-Android](https://github.com/datatheorem/TrustKit-Android)
+ - [Zap-cli](https://github.com/Grunny/zap-cli/graphs/contributors)
 
 #### Organizations
 - [Soluto](https://github.com/soluto)
