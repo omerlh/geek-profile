@@ -20,15 +20,17 @@ github: https://github.com/omerlh/geek-profile
 - [All You Need is Zap - Webinar](https://www.youtube.com/watch?v=AQX84p9NhqY)
 
 ## Posts
-- [Userless User Authentication For Mobile Applications](https://blog.solutotlv.com/userless-mobile-authentication/)
-- [Keep Redis in shape using 3 simple steps](https://blog.solutotlv.com/keep-redis-shape-3-simple-steps/)
-- [What I learned at AppSecEu](https://blog.solutotlv.com/my-thoughts-appseceurope/)
+- [Userless User Authentication For Mobile Applications](https://blog.solutotlv.com/userless-mobile-authentication/?utm_source=omerlh)
+- [Keep Redis in shape using 3 simple steps](https://blog.solutotlv.com/keep-redis-shape-3-simple-steps/?utm_source=omerlh)
+- [What I learned at AppSecEu](https://blog.solutotlv.com/my-thoughts-appseceurope/?utm_source=omerlh)
+- [Easily testing WordPress plugins using Docker](https://blog.solutotlv.com/testing-wordpress-plugins-easy/?utm_source=omerlh)
 
 ## GitHub
 
 #### Original
 - [webdriverio-zap-proxy](https://github.com/Soluto/webdriverio-zap-proxy): example of how to integrate zap with webdriver.io
 - [check-redis-plugin](https://github.com/Soluto/check-redis-plugin): Nagios plugin to monitor Redis memory usage using Webdis
+- [WordPress Plugin Test Template](https://github.com/Soluto/wordpress-plugin-tests-template): Ready to use template to easily create tests for your WordPress plugin
 
 ### Contributor
  - [TrustKit](https://github.com/datatheorem/TrustKit)
