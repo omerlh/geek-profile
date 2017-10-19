@@ -5,7 +5,7 @@ github: https://github.com/omerlh/geek-profile
 
 ## Profile
 #### Omer Levi Hevroni
-> A software developer and Security enthusiast at Soluto. 
+> Security Champion and Software Developer at [Soluto](https://www.solutotlv.com)
 
 #### Skills
 - C# 
@@ -32,12 +32,13 @@ github: https://github.com/omerlh/geek-profile
 - [webdriverio-zap-proxy](https://github.com/Soluto/webdriverio-zap-proxy): example of how to integrate zap with webdriver.io
 - [check-redis-plugin](https://github.com/Soluto/check-redis-plugin): Nagios plugin to monitor Redis memory usage using Webdis
 - [WordPress Plugin Test Template](https://github.com/Soluto/wordpress-plugin-tests-template): Ready to use template to easily create tests for your WordPress plugin
-- [Authentication without Authentication demo](https://github.com/Soluto/authentication-without-authentication-demo)
+- [Authentication without Authentication demo](https://github.com/Soluto/authentication-without-authentication-demo): A demo for my Authentication without Authentication talk.
 
 ### Contributor
  - [TrustKit](https://github.com/datatheorem/TrustKit)
  - [TrustKit-Android](https://github.com/datatheorem/TrustKit-Android)
- - [Zap-cli](https://github.com/Grunny/zap-cli/graphs/contributors)
+ - [Zap-cli](https://github.com/Grunny/zap-cli/graphs)
+ - [OWASP Zap](https://github.com/zaproxy/zaproxy)
 
 #### Organizations
 - [Soluto](https://github.com/soluto)
