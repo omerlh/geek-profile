@@ -61,4 +61,3 @@ github: https://github.com/omerlh/geek-profile
 - [Twitter: omerlh](https://twitter.com/omerlh)
 - [GitHub: omerlh](https://github.com/omerlh)
 - [StackOverflow: omerlh](https://stackoverflow.com/users/4792970/omer-levi-hevroni)
-- [Twitter: omerlh](https://twitter.com/omerlh)
