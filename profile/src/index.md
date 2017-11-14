@@ -53,9 +53,12 @@ github: https://github.com/omerlh/geek-profile
 #### Organizations
 - [Soluto](https://github.com/soluto)
 
-## Good Reading Books
-- Lord of the Rings
-- 
+## Recommended Reading Books
+- The Fountainhead by Ayn Rand
+- Lord of the Rings by J.R.R Tolikn
+- Neuland by Eshkol Nevo
+- To the End of the Land by David Grossman
+- Akiva’s Orchard by Yochi Brandes.
 
 ## Contacts
 - [Twitter: omerlh](https://twitter.com/omerlh)
