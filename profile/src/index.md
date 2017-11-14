@@ -18,7 +18,6 @@ github: https://github.com/omerlh/geek-profile
 ## Talks
 
 ### Past
-- [OWASP Israel meetup - Dynamic Security Tests with Zap]
 - [OWASP Israel meetup - Automated Security Testing](https://www.slideshare.net/SolutoTLV/automated-security-testing-74232725)
 - [Webinar - All You Need is Zap](https://www.youtube.com/watch?v=AQX84p9NhqY)
 - [AppSec Israel 2017 - Authentication without Authentication](https://www.slideshare.net/SolutoTLV/app-sec-il)
