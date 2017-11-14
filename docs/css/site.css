@@ -21,3 +21,13 @@ footer {
 p, li {
     font-size: 14px;
 }
+
+.image_container {
+    float: right;
+    margin-right: 40px;
+    margin-top: 20px
+}
+
+.image {
+    height: 250px;
+}
