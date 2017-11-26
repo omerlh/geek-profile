@@ -58,3 +58,5 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 - [Twitter: omerlh](https://twitter.com/omerlh)
 - [GitHub: omerlh](https://github.com/omerlh)
 - [StackOverflow: omerlh](https://stackoverflow.com/users/4792970/omer-levi-hevroni)
+- [LinkedIn: omerlh](https://www.linkedin.com/in/omerlh/)
+- [Reddit: omerlh ](https://www.reddit.com/user/omerlh)
