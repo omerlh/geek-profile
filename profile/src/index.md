@@ -17,10 +17,10 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 - [Webinar - All You Need is Zap](https://www.youtube.com/watch?v=AQX84p9NhqY)
 - [AppSec Israel 2017 - Authentication without Authentication](https://www.slideshare.net/SolutoTLV/app-sec-il)
 - [DevOpsDays TLV 2017 - Dynamic Security Tests with Zap](https://www.slideshare.net/SolutoTLV/all-you-need-is-zap-slide-share-81919046)
+- [Peerlyst TLV meetup - Authentication without Authentication](https://www.slideshare.net/SolutoTLV/authentication-without-authentication-peerlyst-meetuo)
 
 ### Future
-- [Peerlyst TLV meetup - Authentication without Authentication](https://www.meetup.com/PeerlystTelAviv/events/244892165/?rv=ea1&_af=event&_af_eid=244892165&https=on)
-- [AppSec California - Authentication without Authentication](https://appseccalifornia2018.sched.com/)
+- [AppSec California - Authentication without Authentication](https://appseccalifornia2018.sched.com/event/CuR0/authentication-without-authentication)
 
 ## Posts
 - [Userless User Authentication For Mobile Applications](https://blog.solutotlv.com/userless-mobile-authentication/?utm_source=omerlh)
@@ -36,6 +36,7 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 - [check-redis-plugin](https://github.com/Soluto/check-redis-plugin): Nagios plugin to monitor Redis memory usage using Webdis
 - [WordPress Plugin Test Template](https://github.com/Soluto/wordpress-plugin-tests-template): Ready to use template to easily create tests for your WordPress plugin
 - [Authentication without Authentication demo](https://github.com/Soluto/authentication-without-authentication-demo): A demo for my Authentication without Authentication talk.
+- [Capec Slack](https://github.com/omerlh/capec-slack): Small HTML scraper that load random attack pattern and send it to Slack, to increase security awareness.
 
 ### Contributor
  - [TrustKit](https://github.com/datatheorem/TrustKit)
