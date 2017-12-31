@@ -37,6 +37,8 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 - [WordPress Plugin Test Template](https://github.com/Soluto/wordpress-plugin-tests-template): Ready to use template to easily create tests for your WordPress plugin
 - [Authentication without Authentication demo](https://github.com/Soluto/authentication-without-authentication-demo): A demo for my Authentication without Authentication talk.
 - [Capec Slack](https://github.com/omerlh/capec-slack): Small HTML scraper that load random attack pattern and send it to Slack, to increase security awareness.
+- [Helm Chart Tests](https://github.com/omerlh/helm-chart-tests-demo): Demo repo - how to easily test your helm charts.
+- [Insecure Deserialization POC](https://github.com/omerlh/insecure-deserialisation-net-poc): A small vulnerable ASP.Net web server, to demo A8 - Insecure deserializaion
 
 ### Contributor
  - [TrustKit](https://github.com/datatheorem/TrustKit)
