@@ -64,3 +64,7 @@ A few CFP already have been submitted - stay tunned!
 - [StackOverflow: omerlh](https://stackoverflow.com/users/4792970/omer-levi-hevroni)
 - [LinkedIn: omerlh](https://www.linkedin.com/in/omerlh/)
 - [Reddit: omerlh ](https://www.reddit.com/user/omerlh)
+
+### Subscribe for updates
+The easiest way to get notified on a new talk or a blog post is to follow me on Twitter. 
+This site is hosted on GitHub, so you can also use the commit [RSS feed](https://github.com/omerlh/geek-profile/commits/master.atom) to get notified each time this site is updated.
