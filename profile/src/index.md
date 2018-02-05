@@ -15,12 +15,13 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 ### Past
 - [OWASP Israel meetup - Automated Security Testing](https://www.slideshare.net/SolutoTLV/automated-security-testing-74232725)
 - [Webinar - All You Need is Zap](https://www.youtube.com/watch?v=AQX84p9NhqY)
-- [AppSec Israel 2017 - Authentication without Authentication](https://www.slideshare.net/SolutoTLV/app-sec-il)
-- [DevOpsDays TLV 2017 - Dynamic Security Tests with Zap](https://www.slideshare.net/SolutoTLV/all-you-need-is-zap-slide-share-81919046)
-- [Peerlyst TLV meetup - Authentication without Authentication](https://www.slideshare.net/SolutoTLV/authentication-without-authentication-peerlyst-meetuo)
+- [AppSec Israel 2017 - Authentication without Authentication](https://owaspappsecisrael2017.sched.com/event/CSDJ?iframe=no). [Slides](https://www.slideshare.net/SolutoTLV/app-sec-il), [Recording](https://www.youtube.com/watch?v=EOB6WiDXADo&t=40s).
+- [DevOpsDays TLV 2017 - Dynamic Security Tests with Zap](https://www.devopsdays.org/events/2017-tel-aviv/program/yshay-yaacobi). [Slides](https://www.slideshare.net/SolutoTLV/all-you-need-is-zap-slide-share-81919046), [Recording](https://www.youtube.com/watch?v=-xWqdxOK-Ao&t=50s).
+- [Peerlyst TLV meetup - Authentication without Authentication](https://www.meetup.com/PeerlystTelAviv/events/244892165/?rv=ea1&_af=event&_af_eid=244892165&https=on). [Slides](https://www.slideshare.net/SolutoTLV/authentication-without-authentication-peerlyst-meetuo), no recording available.
+- [AppSec California - Authentication without Authentication](https://appseccalifornia2018.sched.com/event/CuR0/authentication-without-authentication). [Slides](https://www.slideshare.net/SolutoTLV/authentication-without-authentication-appsec-california), recording will be available soon.
 
 ### Future
-- [AppSec California - Authentication without Authentication](https://appseccalifornia2018.sched.com/event/CuR0/authentication-without-authentication)
+A few CFP already have been submitted - stay tunned!
 
 ## Posts
 - [Userless User Authentication For Mobile Applications](https://blog.solutotlv.com/userless-mobile-authentication/?utm_source=omerlh)
