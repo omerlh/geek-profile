@@ -21,7 +21,8 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 - [AppSec California - Authentication without Authentication](https://appseccalifornia2018.sched.com/event/CuR0/authentication-without-authentication). [Slides](https://www.slideshare.net/SolutoTLV/authentication-without-authentication-appsec-california), recording will be available soon.
 
 ### Future
-A few CFP already have been submitted - stay tunned!
+- [Redis Day Tel Aviv - Using Redis as primary data source like a pro](https://www.eventbrite.com/e/redis-day-tlv-2018-registration-41778371233)
+- [DevSecCon Tel Aviv - Secure Kubernetes CI/CD pipeline](https://www.devseccon.com/tel-aviv-2018/session/secure-pipeline-weve-built-secure-kubernetes-ci-cd-pipeline/)
 
 ## Posts
 - [Userless User Authentication For Mobile Applications](https://blog.solutotlv.com/userless-mobile-authentication/?utm_source=omerlh)
