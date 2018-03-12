@@ -30,6 +30,7 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 - [What I learned at AppSecEu](https://blog.solutotlv.com/my-thoughts-appseceurope/?utm_source=omerlh)
 - [Easily testing WordPress plugins using Docker](https://blog.solutotlv.com/testing-wordpress-plugins-easy/?utm_source=omerlh)
 - [Security tests made easy with OWASP Zap](https://blog.solutotlv.com/dynamic-security-testing-made-easy/?utm_source=omerlh)
+- [Disabling weak TLS cipher suites without breaking up everything](https://blog.solutotlv.com/disable-weak-tls-cipher-suites-carefully/?utm_source=omerlh)
 
 ## GitHub
 
