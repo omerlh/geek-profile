@@ -22,6 +22,8 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 - [Redis Day Tel Aviv - Using Redis as primary data source like a pro](https://www.eventbrite.com/e/redis-day-tlv-2018-registration-41778371233). [Slides](https://www.slideshare.net/SolutoTLV/storing-data-in-redis-like-a-pro), recording will be available soon.
 
 ### Future
+- Kubernetes Tel Aviv Meetup - 10.4
+- [DevSecOps Tel Aviv Meetup - 22.4](https://www.meetup.com/DevSecOps-Israel/events/247354428/comments/489314564/?)
 - [DevSecCon Tel Aviv - Secure Kubernetes CI/CD pipeline](https://www.devseccon.com/tel-aviv-2018/session/secure-pipeline-weve-built-secure-kubernetes-ci-cd-pipeline/)
 
 ## Posts
