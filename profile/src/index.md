@@ -43,7 +43,7 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 
 ## GitHub
 
-#### Original
+### Original
 - [webdriverio-zap-proxy](https://github.com/Soluto/webdriverio-zap-proxy): example of how to integrate zap with webdriver.io
 - [check-redis-plugin](https://github.com/Soluto/check-redis-plugin): Nagios plugin to monitor Redis memory usage using Webdis
 - [WordPress Plugin Test Template](https://github.com/Soluto/wordpress-plugin-tests-template): Ready to use template to easily create tests for your WordPress plugin
@@ -66,7 +66,7 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
  - [OWASP Glue](https://github.com/OWASP/glue)
  - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
 
-#### Organizations
+### Organizations
 - [Soluto](https://github.com/soluto)
 
 ## Recommended Reading Books
