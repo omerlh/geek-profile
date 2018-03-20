@@ -5,6 +5,13 @@ github: https://github.com/omerlh/geek-profile
 
 # Omer Levi Hevroni
 
+ - [About Me](#about-me)
+ - [Talks](#talks)
+ - [Posts](#posts)
+ - [GitHub](#github)
+ - [Recommended Reading Books](#recommended-reading-books)
+ - [Contact](#contacts)
+
 ## About me
 I'm coding since 4th grade, when my dad taught me BASIC and haven’t looked back since. I'm an AppSec/DevSecOps enthusiast, and always curious about integrating more hacking tools into the CI/CD pipeline. I'm always looking for new interesting ways to increase security awareness over the entire R&D - developers, product and UX. I highly believe in OWASP and a proud member. I am an open source addict, using OSS heavily and keep contributing back. 
 
