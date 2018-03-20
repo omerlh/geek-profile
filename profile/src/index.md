@@ -8,7 +8,7 @@ github: https://github.com/omerlh/geek-profile
  - [About Me](#about-me)
  - [Talks](#talks)
  - [Posts](#posts)
- - [GitHub](#github)
+ - [Code](#code)
  - [Recommended Reading Books](#recommended-reading-books)
  - [Contact](#contacts)
 
@@ -41,7 +41,7 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 - [Security tests made easy with OWASP Zap](https://blog.solutotlv.com/dynamic-security-testing-made-easy/?utm_source=omerlh)
 - [Disabling weak TLS cipher suites without breaking up everything](https://blog.solutotlv.com/disable-weak-tls-cipher-suites-carefully/?utm_source=omerlh)
 
-## GitHub
+## Code
 
 ### Original
 - [webdriverio-zap-proxy](https://github.com/Soluto/webdriverio-zap-proxy): example of how to integrate zap with webdriver.io
@@ -65,9 +65,6 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
  - [OWASP Zap](https://github.com/zaproxy/zaproxy)
  - [OWASP Glue](https://github.com/OWASP/glue)
  - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
-
-### Organizations
-- [Soluto](https://github.com/soluto)
 
 ## Recommended Reading Books
 - The Fountainhead by Ayn Rand
