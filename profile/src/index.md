@@ -44,6 +44,10 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 - [Insecure Deserialization POC](https://github.com/omerlh/insecure-deserialisation-net-poc): A small vulnerable ASP.Net web server, to demo A8 - Insecure deserializaion
 - [Container Security Project](https://github.com/Soluto/containers-security-project): A place to document threats that relevants to various container orchestrators.
 - [Test TLS ciphers](https://github.com/Soluto/test-ssl-cipher-suites): A small ruby script that check for weak TLS cipher suites.
+- [Test TLS ciphers](https://github.com/Soluto/test-ssl-cipher-suites): A small ruby script that check for weak TLS cipher suites.
+- [OAuth 2.0 Seamless Flow](https://github.com/Soluto/oauth-jwt-otp-client-assertion): A proposed standard which add a new OAuth 2.0 grant for mobile application that does not require user interaction.
+- [OWASP Zap/Glue CI](https://github.com/Soluto/owasp-zap-glue-ci-images): A step-by-step guide on how to easily integrate Zap into your API tests.
+
 
 ### Contributor
  - [TrustKit](https://github.com/datatheorem/TrustKit)
