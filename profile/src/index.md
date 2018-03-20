@@ -73,6 +73,9 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 - [StackOverflow: omerlh](https://stackoverflow.com/users/4792970/omer-levi-hevroni)
 - [LinkedIn: omerlh](https://www.linkedin.com/in/omerlh/)
 - [Reddit: omerlh ](https://www.reddit.com/user/omerlh)
+- [Medium: omerlh](https://medium.com/@omerlh/)
+- [Peerlyst: omerlh](https://www.peerlyst.com/users/omer-levi-hevroni/info?trk=user_dropdown)
+- [Facebook: omerlh (only accpeting requests from people I met in person :))](https://www.facebook.com/omerlh)
 
 ### Subscribe for updates
 The easiest way to get notified on a new talk or a blog post is to follow me on Twitter. 
