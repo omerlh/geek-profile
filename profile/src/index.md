@@ -26,11 +26,11 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 - [DevOpsDays TLV 2017 - Dynamic Security Tests with Zap](https://www.devopsdays.org/events/2017-tel-aviv/program/yshay-yaacobi). [Slides](https://www.slideshare.net/SolutoTLV/all-you-need-is-zap-slide-share-81919046), [Recording](https://www.youtube.com/watch?v=-xWqdxOK-Ao&t=50s).
 - [Peerlyst TLV meetup - Authentication without Authentication](https://www.meetup.com/PeerlystTelAviv/events/244892165/?rv=ea1&_af=event&_af_eid=244892165&https=on). [Slides](https://www.slideshare.net/SolutoTLV/authentication-without-authentication-peerlyst-meetuo), no recording available.
 - [AppSec California - Authentication without Authentication](https://appseccalifornia2018.sched.com/event/CuR0/authentication-without-authentication). [Slides](https://www.slideshare.net/SolutoTLV/authentication-without-authentication-appsec-california), [recording](https://www.youtube.com/watch?v=57FrvVvIq6I&index=21&list=PLpr-xdpM8wG-mJASEZ4TqFYtiRgasd-ki&t=0s)
-- [Redis Day Tel Aviv - Using Redis as primary data source like a pro](https://www.eventbrite.com/e/redis-day-tlv-2018-registration-41778371233). [Slides](https://www.slideshare.net/SolutoTLV/storing-data-in-redis-like-a-pro), recording will be available soon.
+- [Redis Day Tel Aviv - Using Redis as primary data source like a pro](https://www.eventbrite.com/e/redis-day-tlv-2018-registration-41778371233). [Slides](https://www.slideshare.net/SolutoTLV/storing-data-in-redis-like-a-pro), [recording](https://www.youtube.com/watch?v=7bdaR5jNe54&t=0s&list=PL83Wfqi-zYZGfjMxkcfumJdVTYEdAMyom&index=12)
 
 ### Future
-- Kubernetes Tel Aviv Meetup - 10.4
-- [DevSecOps Tel Aviv Meetup - 22.4](https://www.meetup.com/DevSecOps-Israel/events/247354428/comments/489314564/?)
+- [Kubernetes Tel Aviv Meetup: Using Helm for rapid CI - 10.4](https://www.meetup.com/Kubernetes-Tel-Aviv/events/248536747/)
+- [DevSecOps Tel Aviv Meetup: Introducing OWASP Glue - 22.4](https://www.meetup.com/DevSecOps-Israel/events/247354428/comments/489314564/?)
 - [DevSecCon Tel Aviv - Secure Kubernetes CI/CD pipeline](https://www.devseccon.com/tel-aviv-2018/session/secure-pipeline-weve-built-secure-kubernetes-ci-cd-pipeline/)
 
 ## Posts
