@@ -28,9 +28,9 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 - [AppSec California - Authentication without Authentication](https://appseccalifornia2018.sched.com/event/CuR0/authentication-without-authentication). [Slides](https://www.slideshare.net/SolutoTLV/authentication-without-authentication-appsec-california), [recording](https://www.youtube.com/watch?v=57FrvVvIq6I&index=21&list=PLpr-xdpM8wG-mJASEZ4TqFYtiRgasd-ki&t=0s)
 - [Redis Day Tel Aviv - Using Redis as primary data source like a pro](https://www.eventbrite.com/e/redis-day-tlv-2018-registration-41778371233). [Slides](https://www.slideshare.net/SolutoTLV/storing-data-in-redis-like-a-pro), [recording](https://www.youtube.com/watch?v=7bdaR5jNe54&t=0s&list=PL83Wfqi-zYZGfjMxkcfumJdVTYEdAMyom&index=12)
 - [Kubernetes Tel Aviv Meetup: Using Helm for rapid CI - 10.4](https://www.meetup.com/Kubernetes-Tel-Aviv/events/248536747/). [Slides](https://www.slideshare.net/SolutoTLV/kubernetes-deployment-without-hassle-93443887), recording will be available soon.
+- [DevSecOps Tel Aviv Meetup: Introducing OWASP Glue - 22.4](https://www.meetup.com/DevSecOps-Israel/events/247354428/comments/489314564/?). [Slides](https://www.slideshare.net/SolutoTLV/owasp-glue), recording will be available soon.
 
 ### Future
-- [DevSecOps Tel Aviv Meetup: Introducing OWASP Glue - 22.4](https://www.meetup.com/DevSecOps-Israel/events/247354428/comments/489314564/?)
 - [DevSecCon Tel Aviv - Secure Kubernetes CI/CD pipeline](https://www.devseccon.com/tel-aviv-2018/session/secure-pipeline-weve-built-secure-kubernetes-ci-cd-pipeline/)
 
 ## Posts
@@ -41,6 +41,7 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 - [Security tests made easy with OWASP Zap](https://blog.solutotlv.com/dynamic-security-testing-made-easy/?utm_source=omerlh)
 - [Disabling weak TLS cipher suites without breaking up everything](https://blog.solutotlv.com/disable-weak-tls-cipher-suites-carefully/?utm_source=omerlh)
 - [Deploying apps to Kubernetes can be fun and simple](https://blog.solutotlv.com/deploying-kubernetes-like-a-pro/?utm_source=omerlh)
+- [Scripting OWASP Zap with JavaScript](https://medium.com/@omerlh/how-to-scripting-owasp-zap-with-javascript-1c1898b1e7e0)
 
 ## Code
 
