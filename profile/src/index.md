@@ -29,9 +29,10 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 - [Redis Day Tel Aviv - Using Redis as primary data source like a pro](https://www.eventbrite.com/e/redis-day-tlv-2018-registration-41778371233). [Slides](https://www.slideshare.net/SolutoTLV/storing-data-in-redis-like-a-pro), [recording](https://www.youtube.com/watch?v=7bdaR5jNe54&t=0s&list=PL83Wfqi-zYZGfjMxkcfumJdVTYEdAMyom&index=12)
 - [Kubernetes Tel Aviv Meetup: Using Helm for rapid CI - 10.4](https://www.meetup.com/Kubernetes-Tel-Aviv/events/248536747/). [Slides](https://www.slideshare.net/SolutoTLV/kubernetes-deployment-without-hassle-93443887), recording will be available soon.
 - [DevSecOps Tel Aviv Meetup: Introducing OWASP Glue - 22.4](https://www.meetup.com/DevSecOps-Israel/events/247354428/comments/489314564/?). [Slides](https://www.slideshare.net/SolutoTLV/owasp-glue), recording will be available soon.
+- [DevSecCon Tel Aviv - Secure Kubernetes CI/CD pipeline](https://www.devseccon.com/tel-aviv-2018/session/secure-pipeline-weve-built-secure-kubernetes-ci-cd-pipeline/). [Slides](https://www.slideshare.net/SolutoTLV/security-testing-for-containerized-applications).
 
 ### Future
-- [DevSecCon Tel Aviv - Secure Kubernetes CI/CD pipeline](https://www.devseccon.com/tel-aviv-2018/session/secure-pipeline-weve-built-secure-kubernetes-ci-cd-pipeline/)
+I've submitted a few CFP, hope to have some news soon :)
 
 ## Posts
 - [Userless User Authentication For Mobile Applications](https://blog.solutotlv.com/userless-mobile-authentication/?utm_source=omerlh)
