@@ -43,6 +43,8 @@ I've submitted a few CFP, hope to have some news soon :)
 - [Disabling weak TLS cipher suites without breaking up everything](https://blog.solutotlv.com/disable-weak-tls-cipher-suites-carefully/?utm_source=omerlh)
 - [Deploying apps to Kubernetes can be fun and simple](https://blog.solutotlv.com/deploying-kubernetes-like-a-pro/?utm_source=omerlh)
 - [Scripting OWASP Zap with JavaScript](https://medium.com/@omerlh/how-to-scripting-owasp-zap-with-javascript-1c1898b1e7e0)
+- [The Hidden Cost of Source Code Obfuscation](https://medium.com/@omerlh/the-price-of-source-code-obfuscation-6feadd89f98a)
+- [Guarding Your Packages with Snyk and Icinga](https://medium.com/@omerlh/guarding-your-packages-with-snyk-and-icinga-667798cac6cc)
 
 ## Code
 
