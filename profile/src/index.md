@@ -19,6 +19,10 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 
 ## Talks
 
+### Future 
+ - [OWASP Poland Day](https://owaspday.pl/) - October 10th
+ - [All Day DevOps](https://www.alldaydevops.com/) - October 17ths
+
 ### Past
 - [OWASP Israel meetup - Automated Security Testing](https://www.slideshare.net/SolutoTLV/automated-security-testing-74232725)
 - [Webinar - All You Need is Zap](https://www.youtube.com/watch?v=AQX84p9NhqY)
@@ -31,9 +35,6 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 - [DevSecOps Tel Aviv Meetup: Introducing OWASP Glue - 22.4](https://www.meetup.com/DevSecOps-Israel/events/247354428/comments/489314564/?). [Slides](https://www.slideshare.net/SolutoTLV/owasp-glue), recording will be available soon.
 - [DevSecCon Tel Aviv - Secure Kubernetes CI/CD pipeline](https://www.devseccon.com/tel-aviv-2018/session/secure-pipeline-weve-built-secure-kubernetes-ci-cd-pipeline/). [Slides](https://www.slideshare.net/SolutoTLV/security-testing-for-containerized-applications).
 
-### Future
-I've submitted a few CFP, hope to have some news soon :)
-
 ## Posts
 - [Userless User Authentication For Mobile Applications](https://blog.solutotlv.com/userless-mobile-authentication/?utm_source=omerlh)
 - [Keep Redis in shape using 3 simple steps](https://blog.solutotlv.com/keep-redis-shape-3-simple-steps/?utm_source=omerlh)
@@ -45,6 +46,7 @@ I've submitted a few CFP, hope to have some news soon :)
 - [Scripting OWASP Zap with JavaScript](https://medium.com/@omerlh/how-to-scripting-owasp-zap-with-javascript-1c1898b1e7e0)
 - [The Hidden Cost of Source Code Obfuscation](https://medium.com/@omerlh/the-price-of-source-code-obfuscation-6feadd89f98a)
 - [Guarding Your Packages with Snyk and Icinga](https://medium.com/@omerlh/guarding-your-packages-with-snyk-and-icinga-667798cac6cc)
+- [Continuously Hacking Your Android App](https://medium.com/@omerlh/how-to-continuously-hacking-your-app-c8b32d1633ad)
 
 ## Code
 
@@ -86,7 +88,7 @@ I've submitted a few CFP, hope to have some news soon :)
 - [Reddit: omerlh ](https://www.reddit.com/user/omerlh)
 - [Medium: omerlh](https://medium.com/@omerlh/)
 - [Peerlyst: omerlh](https://www.peerlyst.com/users/omer-levi-hevroni/info?trk=user_dropdown)
-- [Facebook: omerlh (only accpeting requests from people I met in person :))](https://www.facebook.com/omerlh)
+- [Facebook: omerlh (only accpeting requests from people I've met in person :))](https://www.facebook.com/omerlh)
 
 ### Subscribe for updates
 The easiest way to get notified on a new talk or a blog post is to follow me on Twitter. 
