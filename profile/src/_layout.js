@@ -10,7 +10,7 @@ module.exports = function ({ title, content, frontMatter }) {
       <body>
       <div class="container">
       <div class="image_container">
-      <img class="image" src="images/OmerLH3.jpg" />
+      <img class="image" src="images/headshot.png" />
     </div>
         <div class="profile">
         ${content}
