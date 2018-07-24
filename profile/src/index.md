@@ -15,7 +15,7 @@ github: https://github.com/omerlh/geek-profile
 ## About me
 I'm coding since 4th grade, when my dad taught me BASIC and haven’t looked back since. I'm an AppSec/DevSecOps enthusiast, and always curious about integrating more hacking tools into the CI/CD pipeline. I'm always looking for new interesting ways to increase security awareness over the entire R&D - developers, product and UX. I highly believe in OWASP and a proud member. I am an open source addict, using OSS heavily and keep contributing back. 
 
-Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for B.A. in humanities (mainly Judaism currently) by night (ETA: 2025). And  before all that, I am Father and Spouse.
+Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for B.A. in humanities by night (ETA: 2025). And  before all that, I am Father and Spouse.
 
 ## Talks
 
@@ -59,7 +59,6 @@ Today I'm working at [Soluto](https://www.solutotlv.com) by day and learning for
 - [Helm Chart Tests](https://github.com/omerlh/helm-chart-tests-demo): Demo repo - how to easily test your helm charts.
 - [Insecure Deserialization POC](https://github.com/omerlh/insecure-deserialisation-net-poc): A small vulnerable ASP.Net web server, to demo A8 - Insecure deserializaion
 - [Container Security Project](https://github.com/Soluto/containers-security-project): A place to document threats that relevants to various container orchestrators.
-- [Test TLS ciphers](https://github.com/Soluto/test-ssl-cipher-suites): A small ruby script that check for weak TLS cipher suites.
 - [Test TLS ciphers](https://github.com/Soluto/test-ssl-cipher-suites): A small ruby script that check for weak TLS cipher suites.
 - [OAuth 2.0 Seamless Flow](https://github.com/Soluto/oauth-jwt-otp-client-assertion): A proposed standard which add a new OAuth 2.0 grant for mobile application that does not require user interaction.
 - [OWASP Zap/Glue CI](https://github.com/Soluto/owasp-zap-glue-ci-images): A step-by-step guide on how to easily integrate Zap into your API tests.
